@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yPiuro
+- 👀 I’m interested in coding and stuff, like web dev a lot seems cool or whatever
+- 📫 I’m currently learning JS,Py - Will try backend once I am better at stuff (nodejs,fastapi)
